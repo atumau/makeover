@@ -40,7 +40,7 @@ const Footer = () => {
                 </Link>
               </p>
             </div>
-            <div className="address d-flex gap-3">
+            <div className="d-flex flex-wrap justify-content-center gap-3">
               <p>Email: mauryaatul328@gmail.com</p>
               <p>Phone: +91-8400052053</p>
               <p>Address: 123 Main Street, Kashmiri Gate, New Delhi, India</p>
