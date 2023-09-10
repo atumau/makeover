@@ -6,7 +6,7 @@ const Cart = () => {
   return (<>
     
     
-      <div className="card mt-4 border border-gray-300 shadow hover:border-blue-500 container" style={{ width: "30rem" }}>
+      <div className="card mt-4 border border-gray-300 shadow hover:border-blue-500 container" style={{ width: "20rem" }}>
         <img src="logo.png" className="card-img-top mt-2 " alt="..." />
         <div className="card-body">
           <h5 className="card-title text-center">Namaste...</h5>
