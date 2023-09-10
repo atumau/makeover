@@ -57,7 +57,7 @@ const Blogs = () => {
           alt="..."
         />
         <div className="card-img-overlay">
-          <h5 className="card-title text-white">Card title</h5>
+          <h5 className="card-title text-white"></h5>
         </div>
       </div>
 
