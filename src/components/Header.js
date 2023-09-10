@@ -99,17 +99,7 @@ const Header = () => {
               </li>
               
             </ul>
-            <form className="d-flex">
-              <input
-                className="btn btn-light form-control me-2"
-                type="search"
-                placeholder="@type"
-                aria-label="Search"
-              />
-              <button className="btn btn-light" type="submit">
-                Search
-              </button>
-            </form>
+            
           </div>
           <div className="button mx-3 md:mx-8 lg:mx-16">
             <Link to="/login">
